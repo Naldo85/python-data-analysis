@@ -11,8 +11,8 @@
 - timeStamp: String variable, YYYY-MM-DD HH:MM:SS
 - twp: String variable, Township
 
-## Referências
-* [Kaggle]()
-* [Emergency - 911 Calls]()
-* [Matplotlib]()
-* [Plotly Histograms]()
+## 📚 Referências
+* [Kaggle](https://www.kaggle.com/)
+* [Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
+* [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
+* [Plotly Histograms](https://plotly.com/python/histograms/#histograms-on-date-data)
