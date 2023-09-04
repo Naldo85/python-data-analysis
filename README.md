@@ -1,7 +1,17 @@
 # python-data-analysis
 
-##### Análise em base de dados de ocorrências Ems, Fire e Traffic durante o período de 2015 e 2016, explorando todos os dados para descobrir alguns aspectos interessantes, e, um fato interessante nos chamou atenção nas ocorrências do dia 13 de Junho de 2016.
-  
+ ## Limpeza dos Dados e Configuração da Base 911
+
+**Para este projeto final, estaremos analisando alguns dados de chamadas para o 911. Os dados contêm os seguintes campos:**
+- lat : String variable, Latitude
+- lng: String variable, Longitude
+- desc: String variable, Description of the Emergency Call
+- zip: String variable, Zipcode
+- title: String variable, Title
+- timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+- twp: String variable, Township
+
+## Referências
 * [Kaggle]()
 * [Emergency - 911 Calls]()
 * [Matplotlib]()
