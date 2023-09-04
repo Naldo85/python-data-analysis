@@ -12,7 +12,7 @@
 - twp: String variable, Township
 
 ## 📚 Referências
-* [Kaggle](https://www.kaggle.com/)
-* [Emergency - 911 Calls](https://www.kaggle.com/datasets/mchirico/montcoalert)
-* [Matplotlib](https://matplotlib.org/stable/tutorials/introductory/pyplot.html)
-* [Plotly Histograms](https://plotly.com/python/histograms/#histograms-on-date-data)
+* [Kaggle]("https://www.kaggle.com/"target="_blank")
+* [Emergency - 911 Calls]("https://www.kaggle.com/datasets/mchirico/montcoalert"target="_blank")
+* [Matplotlib]("https://matplotlib.org/stable/tutorials/introductory/pyplot.html"target="_blank")
+* [Plotly Histograms]("https://plotly.com/python/histograms/#histograms-on-date-data"target="_blank")
